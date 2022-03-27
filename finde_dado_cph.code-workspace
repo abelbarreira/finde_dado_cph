@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown.extension.tableFormatter.enabled": true,
+		"markdown.extension.tableFormatter.normalizeIndentation": true,
+		"cSpell.language": "en,es",
+		"[markdown]": {
+			"editor.defaultFormatter": "yzhang.markdown-all-in-one"
+		},
+		"cSpell.words": [
+			"Churri",
+			"Fabi",
+			"Finde",
+			"Hernán",
+			"Javi",
+			"Rober",
+			"Tati"
+		],
+	}
+}
