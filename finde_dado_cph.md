@@ -8,6 +8,7 @@
   - [Alojamiento](#alojamiento)
     - [Apartamento](#apartamento)
       - [AirBnB (8p. del 29 al 2)](#airbnb-8p-del-29-al-2)
+      - [AirBnB (9p ó 10p. del 29 al 2)](#airbnb-9p-ó-10p-del-29-al-2)
     - [Hotel / Hostel](#hotel--hostel)
     - [Booking](#booking)
     - [Other references](#other-references)
@@ -92,6 +93,20 @@ Desde el **Viernes, 29 de Abril** al **Martes, 3 de Mayo** de 2022.
 | *Donde*       | *Review*              | *Camas*                             | *Precio*    | *Comentarios*      |
 | ------------- | --------------------- | ----------------------------------- | ----------- | ------------------ |
 | Amager, Playa | 4.40 from 146 reviews | 10 guests 2 bedrooms 10 beds 1 bath | €814 (102€) | Este no me gusta!! |
+
+#### AirBnB (9p ó 10p. del 29 al 2)
+
+8. [Nord Hotel Apartments | 4 Bedroom Hotel Apartment](https://www.airbnb.com/rooms/32540810?adults=10&location=Copenhagen%2C%20Denmark&check_in=2022-04-29&check_out=2022-05-02&federated_search_id=2897359c-4535-4384-866a-a57701154d1c&source_impression_id=p3_1648485823_iFg0FvwxtShp1UkX)
+
+| *Donde*                           | *Review*              | *Camas*                            | *Precio*      | *Comentarios* |
+| --------------------------------- | --------------------- | ---------------------------------- | ------------- | ------------- |
+| Amager Lergravsparken St. (Metro) | 4.78 from 150 reviews | 10 guests 4 bedrooms 6 beds 1 bath | €2,118 (265€) |               |
+
+9. [Luxury Penthouse · CPH · Private Rooftop Balcony](https://www.airbnb.com/rooms/49701034?adults=10&location=Copenhagen%2C%20Denmark&check_in=2022-04-29&check_out=2022-05-02&federated_search_id=878e9af5-06f2-4e01-ab9f-62fea6efc3d0&source_impression_id=p3_1648485514_QH8ABorpj3BaumHz)
+
+| *Donde*   | *Review*             | *Camas*                             | *Precio*      | *Comentarios* |
+| --------- | -------------------- | ----------------------------------- | ------------- | ------------- |
+| Nørreport | 4.27 from 45 reviews | 10 guests 5 bedrooms 5 beds 2 baths | €2,441 (305€) |               |
 
 ### Hotel / Hostel
 
