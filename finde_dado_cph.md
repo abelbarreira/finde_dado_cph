@@ -27,7 +27,7 @@ Desde el **Viernes, 29 de Abril** al **Martes, 3 de Mayo** de 2022.
 
 ## Participantes
 
-- Tati y Churri
+- Tati y Negro
 - Hernán y Nacho (invitados especiales)
 - Rober y Fabi
 - Javi y Elena
@@ -37,7 +37,7 @@ Desde el **Viernes, 29 de Abril** al **Martes, 3 de Mayo** de 2022.
 
 | *Participante* | *Llegada*                 | *Salida*                  | *Comentarios*           |
 | -------------- | ------------------------- | ------------------------- | ----------------------- |
-| Tati y Churri  | Viernes, 29 Abril @ 19h50 | Lunes, 2 de Mayo @ 19:15  | Bravo!!                 |
+| Tati y Negro   | Viernes, 29 Abril @ 19h50 | Lunes, 2 de Mayo @ 19:15  | Bravo!!                 |
 | Hernán y Nacho | Viernes, 29 Abril @ 19h50 | Lunes, 2 de Mayo @ 19:15  | Yuhuu!!                 |
 | Rober y Fabi   | Viernes, 29 Abril @ 20h40 | Martes, 3 de Mayo @ 21h10 | Applauses!!             |
 | Javi y Elena   | Viernes, 29 Abril @ 20h40 | Sábado, 7 de Mayo @ 21h10 | Vamos, vamos!! Al Bar!! |
