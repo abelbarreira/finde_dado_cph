@@ -1,7 +1,7 @@
 # Finde Dado 2022 @ CPH
 
 - [Finde Dado 2022 @ CPH](#finde-dado-2022--cph)
-  - [Todo](#todo)
+  - [To-Do](#to-do)
   - [Fecha](#fecha)
   - [Participantes](#participantes)
   - [Vuelos](#vuelos)
@@ -15,7 +15,7 @@
   - [Actividades](#actividades)
   - [Traer](#traer)
 
-## Todo
+## To-Do
 
 - [ ] Abel: Coger de vacas el dia 2 Mayo.
 - [ ] Abel: Reservar alojamiento.
@@ -57,7 +57,6 @@ Desde el **Viernes, 29 de Abril** al **Martes, 3 de Mayo** de 2022.
 | ---------------------------- | -------------------- | ---------------------------------- | ------------- | -------------------------------------------------------------------------- |
 | <M> Gammel Strand, Nørreport | 4.55 from 11 reviews | 8 guests 3 bedrooms 4 beds 2 baths | €1,593 (200€) | Parties strictly prohibited (€1000 fee), Quiet hours are from 10 Pm - 9 Am |
 
-
 2. [200m2 NEW Apartment, City centre, next to Tivoli](https://www.airbnb.com/rooms/43935272?adults=8&location=Copenhagen%2C%20Denmark&check_in=2022-04-29&check_out=2022-05-02&federated_search_id=6df664b1-5df7-4e0d-a2ff-0eb2977af25b&source_impression_id=p3_1648406912_q8v2djED5z%2Bj9ueF)
 
 | *Donde* | *Review*             | *Camas*                           | *Precio*      | *Comentarios*                                                              |
@@ -84,11 +83,11 @@ Desde el **Viernes, 29 de Abril** al **Martes, 3 de Mayo** de 2022.
 
 6. [150m2- 2( two) floor apartment](https://www.airbnb.com/rooms/21124815?adults=8&location=Copenhagen%2C%20Denmark&check_in=2022-04-29&check_out=2022-05-02&federated_search_id=481c4aa9-5490-46c7-83e1-8462b83ce6c8&source_impression_id=p3_1648408776_EGk574K3MEK7N1hJ)
 
-| *Donde* | *Review*             | *Camas*                           | *Precio*      | *Comentarios* |
-| ------- | -------------------- | --------------------------------- | ------------- | ------------- |
-| Ostebro | 4.27 from 16 reviews | 8 guests 3 bedrooms 8 beds 1 bath | €1,542 (193€) |               |
+| *Donde*                      | *Review*             | *Camas*                           | *Precio*      | *Comentarios* |
+| ---------------------------- | -------------------- | --------------------------------- | ------------- | ------------- |
+| Ostebro (cerca casa de Vero) | 4.27 from 16 reviews | 8 guests 3 bedrooms 8 beds 1 bath | €1,542 (193€) |               |
 
-7. [Entire residential home hosted by Helle](https://www.airbnb.com/rooms/23766745?adults=8&location=Copenhagen%2C%20Denmark&check_in=2022-04-29&check_out=2022-05-02&federated_search_id=1aa7408b-8bb9-4109-90dc-ff513e784ab1&source_impression_id=p3_1648408091_NYurlhXFjvNZ5UJO)
+7. ~~[Entire residential home hosted by Helle](https://www.airbnb.com/rooms/23766745?adults=8&location=Copenhagen%2C%20Denmark&check_in=2022-04-29&check_out=2022-05-02&federated_search_id=1aa7408b-8bb9-4109-90dc-ff513e784ab1&source_impression_id=p3_1648408091_NYurlhXFjvNZ5UJO)~~
 
 | *Donde*       | *Review*              | *Camas*                             | *Precio*    | *Comentarios*      |
 | ------------- | --------------------- | ----------------------------------- | ----------- | ------------------ |
@@ -109,4 +108,4 @@ Desde el **Viernes, 29 de Abril** al **Martes, 3 de Mayo** de 2022.
 
 ## Traer
 
-- Ropa de abrigo y lluvia?
+- Ropa de abrigo y lluvia
