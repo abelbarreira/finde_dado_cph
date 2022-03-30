@@ -8,16 +8,18 @@
   - [Alojamiento](#alojamiento)
     - [Para 8p, del 29 Abril al 2 de Mayo](#para-8p-del-29-abril-al-2-de-mayo)
     - [Para 4p, del 2 al 3 de Mayo](#para-4p-del-2-al-3-de-mayo)
-  - [Presupuesto](#presupuesto)
+  - [Plan](#plan)
+    - [Viernes 29 de Abril](#viernes-29-de-abril)
   - [Actividades](#actividades)
+  - [Presupuesto](#presupuesto)
   - [Traer](#traer)
 
 ## To-Do
 
-- [ ] Abel: Coger de vacas el dia 2 Mayo.
-- [x] Abel: Reservar alojamiento.
+- [x] Abel / Tati: Reservar alojamiento.
   - [ ] Recibir el email con el código para recoger las llaves del apartamento (el dia 27 de Abril)
 - [ ] Abel: Buscar actividades chulis.
+- [ ] Abel: Coger de vacas el dia 2 Mayo.
 
 ## Fecha
 
@@ -138,13 +140,20 @@ rule broken.
 
 Javi y Elena y Rober y Fabi. Se pueden quedar en eL_aBeLo apartment (`Thoravej, 17 1TH`).
 
-## Presupuesto
+## Plan
 
-- Alojamiento DKK 13.290 = 1786,30€
+### Viernes 29 de Abril
+
+- Abel recoge las llaves del apartamento a las 17h30.
+- Abel hace la compra de los desayunos, comidas y cenas y prepara el apartamento para cuando llegáis.
 
 ## Actividades
 
 `\todo`
+
+## Presupuesto
+
+- Alojamiento DKK 13.290 = 1786,30€
 
 ## Traer
 
