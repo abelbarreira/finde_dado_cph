@@ -10,6 +10,7 @@
     - [Para 4p, del 2 al 3 de Mayo](#para-4p-del-2-al-3-de-mayo)
   - [Plan](#plan)
     - [Viernes 29 de Abril](#viernes-29-de-abril)
+  - [Lista de la compra](#lista-de-la-compra)
   - [Actividades](#actividades)
   - [Presupuesto](#presupuesto)
   - [Traer](#traer)
@@ -18,7 +19,9 @@
 
 - [x] Abel / Tati: Reservar alojamiento.
   - [ ] Recibir el email con el código para recoger las llaves del apartamento (el dia 27 de Abril)
-- [ ] Abel: Buscar actividades chulis.
+- [ ] Buscar actividades chulis.
+- [ ] Preparar lista de la compra (desayunos, comida, cena etc).
+- [ ] Reserva de Bicis para todos.
 - [ ] Abel: Coger de vacas el dia 2 Mayo.
 
 ## Fecha
@@ -50,12 +53,12 @@ Desde el **Viernes, 29 de Abril** al **Martes, 3 de Mayo** de 2022.
 ### Para 8p, del 29 Abril al 2 de Mayo
 
 - Reservado el apartamento [200m2 NEW Apartment, City centre, next to Tivoli](https://www.airbnb.com/rooms/43935272?adults=8&location=Copenhagen%2C%20Denmark&check_in=2022-04-29&check_out=2022-05-02&federated_search_id=6df664b1-5df7-4e0d-a2ff-0eb2977af25b&source_impression_id=p3_1648406912_q8v2djED5z%2Bj9ueF):
-  - [Información de la reserva](reservation_info.pdf)
+  - [Información de la reserva](reservation_info.pdf).
   - Dirección: `11 Puggaardsgade, 1573 Copenhagen, Denmark`. [Google Maps](https://www.google.com/maps/place/Puggaardsgade+11,+1573+K%C3%B8benhavn/@55.6714271,12.5704469,16.42z/data=!4m5!3m4!1s0x465253135d37da11:0xb9492e17d58d9465!8m2!3d55.6716879!4d12.5745229).
   - Precio: DKK 13.290 = 1786,30€:
     - Por cabeza: 1786,30€ / 8 = **224 €**.
-  - Check In: **29 de April @ 16h00**
-  - Check Out: **2 de Mayo @ 11h00**
+  - Check In: **29 de April @ 16h00**.
+  - Check Out: **2 de Mayo @ 11h00**.
   - Cancelación: Gratuita hasta el **24 de Abril** (5 días antes de la reserva).
   - Contacto:
 
@@ -146,6 +149,40 @@ Javi y Elena y Rober y Fabi. Se pueden quedar en eL_aBeLo apartment (`Thoravej, 
 
 - Abel recoge las llaves del apartamento a las 17h30.
 - Abel hace la compra de los desayunos, comidas y cenas y prepara el apartamento para cuando llegáis.
+
+## Lista de la compra
+
+- [ ] Leche (semi?)
+- [ ] Café
+- [ ] Te (Verde
+- [ ] Leche
+- [ ] Yogur
+- [ ] Zumos? (ojo con el azúcar)
+- [ ] Cereales? Muesli?
+- [ ] Quesos
+- [ ] Huevos
+- [ ] Fruta: Naranjas, Plátanos, Manzanas, Melón?, Sandía?
+- [ ] Tomates: Ensalada y Cóctel (o Cherries)
+- [ ] Lechuga
+- [ ] Cebollas y Cebolletas
+- [ ] Salmón ahumado
+- [ ] Pasta?
+- [ ] Salsa de Tomate?
+- [ ] Patatas?
+- [ ] Frikadeler
+- [ ] Algo de embutido tipo Jamón York o similar.
+- [ ] Pizzas de esas congeladas?
+- [ ] Limones
+- [ ] Aceite
+- [ ] Sal
+- [ ] Cervezas: Tuborg y alguna especial
+- [ ] Vino: Tinto y Blanco
+- [ ] Chips, Frutos Secos y Pipas para mi Prima Tati
+- [ ] Unos Torreznos de esos daneses
+- [ ] Refrescos: CocaCola? Naranja?
+- [ ] Licores: Gin? Whisky? Ron?
+- [ ] Hielos?
+- [ ] Ruavieja (desde el Aeropuerto)
 
 ## Actividades
 
