@@ -152,9 +152,10 @@ Javi y Elena y Rober y Fabi. Se pueden quedar en eL_aBeLo apartment (`Thoravej, 
 
 ## Lista de la compra
 
+- [ ] Pan
 - [ ] Leche (semi?)
 - [ ] Café
-- [ ] Te (Verde
+- [ ] Te (Verde) y Cookies
 - [ ] Leche
 - [ ] Yogur
 - [ ] Zumos? (ojo con el azúcar)
@@ -165,13 +166,15 @@ Javi y Elena y Rober y Fabi. Se pueden quedar en eL_aBeLo apartment (`Thoravej, 
 - [ ] Tomates: Ensalada y Cóctel (o Cherries)
 - [ ] Lechuga
 - [ ] Cebollas y Cebolletas
+- [ ] Pepino
 - [ ] Salmón ahumado
 - [ ] Pasta?
 - [ ] Salsa de Tomate?
 - [ ] Patatas?
 - [ ] Frikadeler
+- [ ] Salchichas?
 - [ ] Algo de embutido tipo Jamón York o similar.
-- [ ] Pizzas de esas congeladas?
+- [ ] Pizzas (congeladas?)
 - [ ] Limones
 - [ ] Aceite
 - [ ] Sal
@@ -182,6 +185,7 @@ Javi y Elena y Rober y Fabi. Se pueden quedar en eL_aBeLo apartment (`Thoravej, 
 - [ ] Refrescos: CocaCola? Naranja?
 - [ ] Licores: Gin? Whisky? Ron?
 - [ ] Hielos?
+- [ ] Helados?
 - [ ] Ruavieja (desde el Aeropuerto)
 
 ## Actividades
