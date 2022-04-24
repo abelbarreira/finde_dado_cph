@@ -10,8 +10,10 @@
     - [Para 4p, del 2 al 3 de Mayo](#para-4p-del-2-al-3-de-mayo)
   - [Plan](#plan)
     - [Viernes 29 de Abril](#viernes-29-de-abril)
-  - [Lista de la compra](#lista-de-la-compra)
   - [Actividades](#actividades)
+    - [Calendario A](#calendario-a)
+    - [Calendario B](#calendario-b)
+  - [Lista de la compra](#lista-de-la-compra)
   - [Presupuesto](#presupuesto)
   - [Traer](#traer)
 
@@ -150,6 +152,30 @@ Javi y Elena y Rober y Fabi. Se pueden quedar en eL_aBeLo apartment (`Thoravej, 
 - Abel recoge las llaves del apartamento a las 17h30.
 - Abel hace la compra de los desayunos, comidas y cenas y prepara el apartamento para cuando llegáis.
 
+## Actividades
+
+### Calendario A
+
+|          | *Viernes*   | *Sabado*                | *Domingo*                 | *Lunes*                    |
+| -------- | ----------- | ----------------------- | ------------------------- | -------------------------- |
+| Desayuno | -           | Apartamento             | Apartamento               | Apartamento                |
+| Mañana   | -           | Visitar CPH / Free Tour | Visitar CPH               | Visitar Dragør             |
+| Comida   | -           | Smørrebrød              | Food Market               | Dragør Restaurant + Helado |
+| Tarde    | -           | **Activity #1**         | Visitar CPH (Christiania) | Aeropuerto                 |
+| Cena     | Apartamento | Donde queramos          | **Danish Restaurant**     | Norrebro Area              |
+| Noche    | Party       | Party, Party            | Party                     | Paseo suave                |
+
+### Calendario B
+
+|          | *Viernes*   | *Sabado*                | *Domingo*             | *Lunes*                    |
+| -------- | ----------- | ----------------------- | --------------------- | -------------------------- |
+| Desayuno | -           | Apartamento             | Apartamento           | Apartamento                |
+| Mañana   | -           | Visitar CPH / Free Tour | Visitar Lund/Malmo    | Visitar Dragør             |
+| Comida   | -           | Smørrebrød              | Lund/Malmo            | Dragør Restaurant + Helado |
+| Tarde    | -           | **Activity #1**         | Visitar Lund/Malmo    | Aeropuerto                 |
+| Cena     | Apartamento | Donde queramos          | **Danish Restaurant** | Norrebro Area              |
+| Noche    | Party       | Party, Party            | Party                 | Paseo suave                |
+
 ## Lista de la compra
 
 - [ ] Pan
@@ -187,10 +213,6 @@ Javi y Elena y Rober y Fabi. Se pueden quedar en eL_aBeLo apartment (`Thoravej, 
 - [ ] Hielos?
 - [ ] Helados?
 - [ ] Ruavieja (desde el Aeropuerto)
-
-## Actividades
-
-`\todo`
 
 ## Presupuesto
 
