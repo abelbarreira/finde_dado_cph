@@ -11,8 +11,8 @@
   - [Plan](#plan)
     - [Viernes 29 de Abril](#viernes-29-de-abril)
   - [Actividades](#actividades)
-    - [Calendario A](#calendario-a)
-    - [Calendario B](#calendario-b)
+    - [Plan A](#plan-a)
+    - [Plan B](#plan-b)
   - [Lista de la compra](#lista-de-la-compra)
   - [Presupuesto](#presupuesto)
   - [Traer](#traer)
@@ -154,7 +154,7 @@ Javi y Elena y Rober y Fabi. Se pueden quedar en eL_aBeLo apartment (`Thoravej, 
 
 ## Actividades
 
-### Calendario A
+### Plan A
 
 |          | *Viernes*   | *Sabado*                | *Domingo*               | *Lunes*                    |
 | -------- | ----------- | ----------------------- | ----------------------- | -------------------------- |
@@ -165,7 +165,7 @@ Javi y Elena y Rober y Fabi. Se pueden quedar en eL_aBeLo apartment (`Thoravej, 
 | Cena     | Apartamento | Donde queramos          | **[Danish Restaurant]** | Norrebro Area              |
 | Noche    | Party       | Party, Party            | Party                   | Paseo suave                |
 
-### Calendario B
+### Plan B
 
 |          | *Viernes*   | *Sabado*                | *Domingo*               | *Lunes*                    |
 | -------- | ----------- | ----------------------- | ----------------------- | -------------------------- |
@@ -221,3 +221,4 @@ Javi y Elena y Rober y Fabi. Se pueden quedar en eL_aBeLo apartment (`Thoravej, 
 ## Traer
 
 - Ropa de abrigo y lluvia.
+- Antifaz!
