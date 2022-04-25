@@ -9,11 +9,8 @@
     - [Para 8p, del 29 Abril al 2 de Mayo](#para-8p-del-29-abril-al-2-de-mayo)
     - [Para 4p, del 2 al 3 de Mayo](#para-4p-del-2-al-3-de-mayo)
   - [Plan](#plan)
-    - [Viernes 29 de Abril](#viernes-29-de-abril)
-  - [Actividades](#actividades)
-    - [Plan A](#plan-a)
-    - [Plan B](#plan-b)
   - [Lista de la compra](#lista-de-la-compra)
+  - [Bicis](#bicis)
   - [Presupuesto](#presupuesto)
   - [Traer](#traer)
 
@@ -22,9 +19,9 @@
 - [x] Abel / Tati: Reservar alojamiento.
   - [ ] Recibir el email con el código para recoger las llaves del apartamento (el dia 27 de Abril)
 - [ ] Buscar actividades chulis.
-- [ ] Preparar lista de la compra (desayunos, comida, cena etc).
-- [ ] Reserva de Bicis para todos.
-- [ ] Abel: Coger de vacas el dia 2 Mayo.
+- [x] Preparar lista de la compra (desayunos, comida, cena etc).
+- [x] Bicis. Mirar referencias y precios.
+- [x] Abel: Coger de vacas el dia 2 Mayo.
 
 ## Fecha
 
@@ -147,72 +144,18 @@ Javi y Elena y Rober y Fabi. Se pueden quedar en eL_aBeLo apartment (`Thoravej, 
 
 ## Plan
 
-### Viernes 29 de Abril
-
-- Abel recoge las llaves del apartamento a las 17h30.
-- Abel hace la compra de los desayunos, comidas y cenas y prepara el apartamento para cuando llegáis.
-
-## Actividades
-
-### Plan A
-
-|          | *Viernes*   | *Sabado*                | *Domingo*               | *Lunes*                    |
-| -------- | ----------- | ----------------------- | ----------------------- | -------------------------- |
-| Desayuno | -           | Apartamento             | Apartamento             | Apartamento                |
-| Mañana   | -           | Visitar CPH / Free Tour | Visitar CPH             | Visitar Dragør             |
-| Comida   | -           | Smørrebrød              | Food Market             | Dragør Restaurant + Helado |
-| Tarde    | -           | **[Actividad #1]**      | Visitar CPH             | Aeropuerto                 |
-| Cena     | Apartamento | Donde queramos          | **[Danish Restaurant]** | Norrebro Area              |
-| Noche    | Party       | Party, Party            | Party                   | Paseo suave                |
-
-### Plan B
-
-|          | *Viernes*   | *Sabado*                | *Domingo*               | *Lunes*                    |
-| -------- | ----------- | ----------------------- | ----------------------- | -------------------------- |
-| Desayuno | -           | Apartamento             | Apartamento             | Apartamento                |
-| Mañana   | -           | Visitar CPH / Free Tour | Visitar Lund/Malmo      | Visitar Dragør             |
-| Comida   | -           | Smørrebrød              | Lund/Malmo              | Dragør Restaurant + Helado |
-| Tarde    | -           | **[Actividad #1]**      | Visitar Lund/Malmo      | Aeropuerto                 |
-| Cena     | Apartamento | Donde queramos          | **[Danish Restaurant]** | Norrebro Area              |
-| Noche    | Party       | Party, Party            | Party                   | Paseo suave                |
+- [Plan](actividades.md#actividades)
 
 ## Lista de la compra
 
-- [ ] Pan
-- [ ] Leche (semi?)
-- [ ] Café
-- [ ] Te (Verde) y Cookies
-- [ ] Leche
-- [ ] Yogur
-- [ ] Zumos? (ojo con el azúcar)
-- [ ] Cereales? Muesli?
-- [ ] Quesos
-- [ ] Huevos
-- [ ] Fruta: Naranjas, Plátanos, Manzanas, Melón?, Sandía?
-- [ ] Tomates: Ensalada y Cóctel (o Cherries)
-- [ ] Lechuga
-- [ ] Cebollas y Cebolletas
-- [ ] Pepino
-- [ ] Salmón ahumado
-- [ ] Pasta?
-- [ ] Salsa de Tomate?
-- [ ] Patatas?
-- [ ] Frikadeler
-- [ ] Salchichas?
-- [ ] Algo de embutido tipo Jamón York o similar.
-- [ ] Pizzas (congeladas?)
-- [ ] Limones
-- [ ] Aceite
-- [ ] Sal
-- [ ] Cervezas: Tuborg y alguna especial
-- [ ] Vino: Tinto y Blanco
-- [ ] Chips, Frutos Secos y Pipas para mi Prima Tati
-- [ ] Unos Torreznos de esos daneses
-- [ ] Refrescos: CocaCola? Naranja?
-- [ ] Licores: Gin? Whisky? Ron?
-- [ ] Hielos?
-- [ ] Helados?
-- [ ] Ruavieja (desde el Aeropuerto)
+- [Lista de la compra](lista_compra.md)
+
+## Bicis
+
+La idea es alquilar las bicicletas el Sábado por la mañana pronto hasta el Lunes. Algunos sitios cerca:
+
+- [Baisikeli](https://baisikeli.dk/bike-rental/)
+- [Copenhagen Bicycles](https://copenhagenbicycles.dk/prices/)
 
 ## Presupuesto
 
