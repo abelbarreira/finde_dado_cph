@@ -18,4 +18,4 @@
 ### Viernes 29 de Abril
 
 - Abel recoge las llaves del apartamento a las 17h30.
-- Abel hace la compra de los desayunos, comidas y cenas y prepara el apartamento para cuando llegáis.
+- Abel hace la compra de los desayunos y re-cenas y prepara el apartamento para cuando llegáis.
