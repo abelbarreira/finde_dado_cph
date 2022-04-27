@@ -3,7 +3,7 @@
 - [Finde Dado 2022 @ CPH - Alojamiento](#finde-dado-2022--cph---alojamiento)
   - [Alojamiento](#alojamiento)
     - [Para 8p, del 29 Abril al 2 de Mayo](#para-8p-del-29-abril-al-2-de-mayo)
-      - [Email con información para recoger las llaves](#email-con-información-para-recoger-las-llaves)
+      - [Recogida de llaves](#recogida-de-llaves)
     - [Para 4p, del 2 al 3 de Mayo](#para-4p-del-2-al-3-de-mayo)
 
 ## Alojamiento
@@ -100,15 +100,13 @@ rule broken.
 4.70 from 56 reviews
 ```
 
-#### Email con información para recoger las llaves
+#### Recogida de llaves
 
 ```txt
 De: thorbjrnbraad_oekrxyn@user.guesty.com <thorbjrnbraad_oekrxyn@user.guesty.com>
 Enviado el: miércoles, 27 de abril de 2022 8:01
 Para: Tatiana <tatiana@jimbofresh.com>
 Asunto: Message about your reservation
-
-
 
 Dear Tatiana ,
 The time for your arrival is getting closer & we hope you are as excited about your stay as we are.
