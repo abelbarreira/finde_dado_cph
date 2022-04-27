@@ -15,7 +15,7 @@
 ## To-Do
 
 - [x] Abel / Tati: Reservar alojamiento.
-  - [ ] Recibir el email con el código para recoger las llaves del apartamento (el dia 27 de Abril)
+  - [x] Recibir el email con el código para recoger las llaves del apartamento (el dia 27 de Abril)
 - [x] Buscar actividades chulis.
 - [x] Preparar lista de la compra (desayunos, comida, cena etc).
 - [x] Bicis. Mirar referencias y precios.

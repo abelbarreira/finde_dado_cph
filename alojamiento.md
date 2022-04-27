@@ -3,6 +3,7 @@
 - [Finde Dado 2022 @ CPH - Alojamiento](#finde-dado-2022--cph---alojamiento)
   - [Alojamiento](#alojamiento)
     - [Para 8p, del 29 Abril al 2 de Mayo](#para-8p-del-29-abril-al-2-de-mayo)
+      - [Email con información para recoger las llaves](#email-con-información-para-recoger-las-llaves)
     - [Para 4p, del 2 al 3 de Mayo](#para-4p-del-2-al-3-de-mayo)
 
 ## Alojamiento
@@ -97,6 +98,48 @@ rule broken.
 ```txt
 8 guests 3 bedrooms 3 beds 1 bath
 4.70 from 56 reviews
+```
+
+#### Email con información para recoger las llaves
+
+```txt
+De: thorbjrnbraad_oekrxyn@user.guesty.com <thorbjrnbraad_oekrxyn@user.guesty.com>
+Enviado el: miércoles, 27 de abril de 2022 8:01
+Para: Tatiana <tatiana@jimbofresh.com>
+Asunto: Message about your reservation
+
+
+
+Dear Tatiana ,
+The time for your arrival is getting closer & we hope you are as excited about your stay as we are.
+
+This message includes all the necessary information to check in to the apartment.
+
+__________CHECK-IN INSTRUCTIONS__________
+The code(s) to the digital lock/lockbox allows you to enter the property without physically greeting us.
+On the check-in day, you can access the apartment at the agreed check-in time or later the same day.
+
+Most guests use LuggageHero to store their belongings/luggage until the apartment is ready for check-in. https://lughe.ro/Vgvc5O
+
+APARTMENT ADDRESS.
+Puggaardsgade 11, 3rd floor, right door, København 1573, Denmark
+
+CODES:
+Apartment Building:
+1372#
+
+Apartment:
+8083
+
+INSTRUCTIONS:
+When you arrive at the address, you will find the first keypad located to the right of the entry door. It is a black rectangular-shaped keypad. Here you need to enter the code 'Apartment Building.
+
+Once you have gotten into the apartment building, go to the 3rd floor & your apartment is to the right. Next to the door you will find a silver square keypad. Here you need to enter the code 'Apartment.
+
+Feel free to send us a message should you have any questions regarding the apartment, Copenhagens food scene, sightseeing, etc.
+
+Best regards,
+Marcus - Hotel Apartments Copenhagen
 ```
 
 ### Para 4p, del 2 al 3 de Mayo
