@@ -11,6 +11,7 @@
   - [Bicis](#bicis)
   - [Presupuesto](#presupuesto)
   - [Traer](#traer)
+    - [Ropa](#ropa)
 
 ## To-Do
 
@@ -20,6 +21,7 @@
 - [x] Preparar lista de la compra (desayunos, comida, cena etc).
 - [x] Bicis. Mirar referencias y precios.
 - [x] Abel: Coger de vacas el dia 2 Mayo.
+- [ ] Ropas, etc.
 
 ## Fecha
 
@@ -67,5 +69,12 @@ La idea es alquilar las bicicletas el Sábado por la mañana pronto hasta el Lun
 
 ## Traer
 
-- Ropa de abrigo y lluvia.
+### Ropa
+
 - Antifaz!
+- Gorro o Gorra
+- Guantes (para cuando rodemos con la bici, las manos se quedan frías).
+- Chaqueta (no chaquetita, Chaqueta).
+- Calzado cómodo, que daremos buen paseo.
+
+- Ropa de abrigo y lluvia ? Esperar a ver el tiempo del Jueves.

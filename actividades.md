@@ -12,7 +12,7 @@
 | Mañana   | -           | Visitar CPH / Free Tour | Visitar CPH             | Visitar Dragør             |
 | Comida   | -           | Smørrebrød              | Food Market             | Dragør Restaurant + Helado |
 | Tarde    | -           | **[Actividad #1]**      | Visitar CPH             | Aeropuerto                 |
-| Cena     | Apartamento | Donde queramos          | **[Danish Restaurant]** | Norrebro Area              |
+| Cena     | Apartamento | Donde queramos          | **[Danish Restaurant]** | Nørrebro Area              |
 | Noche    | Party       | Party, Party            | Party                   | Paseo suave                |
 
 ### Viernes 29 de Abril
