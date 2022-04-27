@@ -12,35 +12,35 @@
 
 - [ ] Leche (Semi-Desnatada, sin lactosa)
 - [ ] Café o NesCafé
+- [ ] Zumos (ojo con el azúcar)
+- [ ] Te (Verde) y Cookies
+- [ ] Yogur
 - [ ] Pan
-- [ ] Embutido
+- [ ] Embutido: Jamón York, Pavo
+- [ ] Huevos
+- [ ] Quesos
 - [ ] Bizcocho o similar
 - [ ] Ensalada o tortilla o embutido o pasta.
 - [ ] Cervezas: Tuborg y alguna especial
 - [ ] Chips, Frutos Secos y Pipas para mi Prima Tati
 - [ ] Unos Torreznos de esos daneses
+- [ ] Tomates: Ensalada y Cóctel (o Cherries)
+- [ ] Fruta: Naranjas, Plátanos, Manzanas
 
 #### Para las re-cenas
 
 - [ ] Pasta (Integral)
 - [ ] Salsa de Tomate
+- [ ] Danske Frikadeller
 
 ### Sin confirmar
 
-- [ ] Te (Verde) y Cookies
-- [ ] Yogur
-- [ ] Zumos? (ojo con el azúcar)
 - [ ] Cereales? Muesli?
-- [ ] Quesos
-- [ ] Huevos
-- [ ] Fruta: Naranjas, Plátanos, Manzanas, Melón?, Sandía?
-- [ ] Tomates: Ensalada y Cóctel (o Cherries)
 - [ ] Lechuga
 - [ ] Cebollas y Cebolletas
 - [ ] Pepino
 - [ ] Salmón ahumado
 - [ ] Patatas?
-- [ ] Frikadeler
 - [ ] Salchichas?
 - [ ] Pizzas (congeladas?)
 - [ ] Limones

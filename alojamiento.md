@@ -124,10 +124,10 @@ Puggaardsgade 11, 3rd floor, right door, København 1573, Denmark
 
 CODES:
 Apartment Building:
-1372#
+<...>
 
 Apartment:
-8083
+<...>
 
 INSTRUCTIONS:
 When you arrive at the address, you will find the first keypad located to the right of the entry door. It is a black rectangular-shaped keypad. Here you need to enter the code 'Apartment Building.
