@@ -10,20 +10,20 @@
 
 ### Confirmado
 
-- [ ] Leche (Semi-Desnatada, sin lactosa)
+- [ ] Leche (Semi-Desnatada, sin lactosa) x 6
 - [ ] Café o NesCafé
 - [ ] Zumos (ojo con el azúcar)
 - [ ] Te (Verde) y Cookies
-- [ ] Yogur
+- [ ] Yogur x 2
 - [ ] Pan
 - [ ] Embutido: Jamón York, Pavo
 - [ ] Huevos
 - [ ] Quesos
 - [ ] Bizcocho o similar
 - [ ] Ensalada o tortilla o embutido o pasta.
-- [ ] Cervezas: Tuborg y alguna especial
+- [ ] Cervezas: Tuborg x24 y alguna especial
 - [ ] Chips, Frutos Secos y Pipas para mi Prima Tati
-- [ ] Unos Torreznos de esos daneses
+- [x] Unos Torreznos de esos daneses
 - [ ] Tomates: Ensalada y Cóctel (o Cherries)
 - [ ] Fruta: Naranjas, Plátanos, Manzanas
 
